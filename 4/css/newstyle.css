@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'Muller';
+  src: url("../fonts/MullerRegular.woff2");
+  font-style: normal;
+  font-weight: normal;
+}
+
+body {
+  background-color: #F1F1F1;
+}
+
+.group19 {
+  margin: 0 auto;
+  margin-left: 375px;
+  margin-top: 30px;
+  width: 1170px;
+  height: 54px;
+  background: #F1F1F1;
+  display: flex;
+}
+
+.logo {
+  width: 261px;
+  height: 54px;
+  background: #F0BF5F;
+  border-radius: 15px;
+  background-image: url("../images/logo.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.name-logo {
+  padding-top: 7px;
+  padding-left: 23.18px;
+}
+
+.phone-header {
+  font-family: 'Muller';
+  font-style: normal;
+  position: absolute;
+  margin-top: 17px;
+  margin-bottom: 17px;
+  margin-left: 301px;
+  font-weight: 500;
+  line-height: 20px;
+  font-size: 20px;
+  color: #666;
+}
+
+.lk {
+  position: absolute;
+  font-family: 'Muller';
+  font-style: normal;
+  margin-top: 20px;
+  margin-bottom: 18px;
+  margin-left: 1044px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: #CC9933;
+  height: 24px;
+  width: 155px;
+}
+.strelka {
+  position: absolute;
+  width: 21px;
+  height: 12px;
+  margin-left: 1016px;
+  margin-top: 21px;
+  margin-bottom: 21px;
+  margin-right: 133px;
+}
+
+.main1921 {
+  width: 1920px;
+  height: 5677px;
+  position: relative;
+  background: #F1F1F1;
+}
+
+.group18 {
+  position: absolute;
+  width: 100%;
+  max-width: 1170px;
+  height: 70px;
+  margin-left: 375px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background: #fff;
+}
