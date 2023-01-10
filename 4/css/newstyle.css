@@ -87,3 +87,8 @@ body {
   border-radius: 15px;
   background: #fff;
 }
+
+.nav-link {
+  display: flex;
+  list-style-type: none;
+}
